@@ -12,7 +12,7 @@ CM_FILENAME="cm_verify.txt"
 UPDATE_FILENAME="update_info.tmp"
 LOCAL_CM_FILE=""
 LOCAL_UPDATE_FILE=""
-CURRENT_VERSION="1.6.3"
+CURRENT_VERSION="1.6.4"
 # 新增：本地新版本脚本存储路径（与当前脚本同目录，命名为dfm_new.sh）
 NEW_SCRIPT_FILENAME="dfm_new.sh"
 LOCAL_NEW_SCRIPT="$PWD/$NEW_SCRIPT_FILENAME"
